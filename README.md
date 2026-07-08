@@ -28,3 +28,9 @@ Para traer todo el código, modelos o archivos necesarios a tu entorno temporal 
 
 # Entrar a la carpeta del proyecto
 %cd MaestriaUHE
+
+### 2. Ejectuar el proyecto
+Clic en Ejectuar todas, y se ejecutará todas las secciones del script
+
+### 3. Archivo de Datos
+Se adjunta el dataset con el cual se trabajo
