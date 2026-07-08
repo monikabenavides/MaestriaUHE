@@ -12,7 +12,7 @@ Este repositorio está optimizado para clonarse e instalarse directamente en **G
 
 No necesitas configurar nada en tu máquina local. Haz clic en el siguiente botón para abrir el cuaderno del proyecto directamente en Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 ---
 
 ## 🛠️ Pasos para la Instalación Manual en Colab
