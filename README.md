@@ -24,7 +24,7 @@ Para traer todo el código, modelos o archivos necesarios a tu entorno temporal 
 
 ```python
 # Clonar el repositorio desde GitHub
-!git clone [https://github.com/TU_USUARIO_GITHUB/TU_NOMBRE_REPOSITORIO.git](https://github.com/TU_USUARIO_GITHUB/TU_NOMBRE_REPOSITORIO.git)
+!git clone [https://github.com/monikabenavides/MaestriaUHE.git](https://github.com/monikabenavides/MaestriaUHE.git)
 
 # Entrar a la carpeta del proyecto
-%cd TU_NOMBRE_REPOSITORIO
+%cd MaestriaUHE
